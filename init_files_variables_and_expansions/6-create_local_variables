@@ -1,1 +1,2 @@
-init variables and expansions
+#!/bin/bash
+BEST="School"
